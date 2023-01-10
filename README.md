@@ -1,7 +1,5 @@
 # FreeCodeCamp Form - practice HTML-CSS
 
-# Cloud Management WebApp
-
 Technologies used:
 
 - HTML
